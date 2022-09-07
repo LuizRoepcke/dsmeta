@@ -1,6 +1,11 @@
+import Botaonotificacao from "./components/botaonotificacao"
+
 function App() {
-  return(
-    <h1>olá mundo</h1>
+  return (
+    <>
+      <h1>olá mundo</h1>
+      <Botaonotificacao />
+    </>
   )
 }
 
